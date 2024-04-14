@@ -1,0 +1,5 @@
+*     text eol=lf
+*.cs  text eol=lf diff=csharp
+*.sh  text eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf

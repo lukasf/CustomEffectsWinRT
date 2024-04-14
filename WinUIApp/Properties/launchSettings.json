@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "WinUIApp (Package)": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": true
+    },
+    "WinUIApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

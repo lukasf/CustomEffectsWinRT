@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WinRTLibrary": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
